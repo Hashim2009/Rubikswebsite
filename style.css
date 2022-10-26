@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right top, #17704b, #036e4c, #077a55, #078b70, #03a68e);
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
